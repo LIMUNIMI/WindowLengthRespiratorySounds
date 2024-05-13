@@ -1,6 +1,7 @@
 # WindowLengthRespiratorySounds
-This is the experiment of my thesis. The main purpose is to see analyze how the parameter 'window length' affects
-the performance of an AutoML system.
+
+__This is the experiment of my thesis. The main purpose is to see analyze how the parameter 'window length' affects
+the performance of an AutoML system.__
 
 1- Download the dataset and organize the files, dividing wav and txt files in separate directories.
 2- Use the first functions in the functions.py script to operate segmentation (split each audio files in segments
